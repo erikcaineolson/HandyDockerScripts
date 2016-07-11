@@ -16,7 +16,7 @@ then
     # no arguments supplied
     echo "Missing argument"
     echo "Usage: ./delete-images.sh all|untagged|\${id}"
-    echo "In the event you need an Image ID, review the following:"
+    echo "In the event you need an Image ID, reference the following:"
     echo ""
     docker images
     exit 1
