@@ -1,3 +1,4 @@
+#!/usr/bin/python
 # create_composition.py
 import string
 import random
